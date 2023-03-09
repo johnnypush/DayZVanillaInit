@@ -5,7 +5,7 @@
 -  No mods required
 ```
 I will no longer be managing DayZ servers, so I decided to gift my work for the community.
-So feel free to share, credits appreciated.
+Feel free to share, credits appreciated.
 
 ## Features
 
