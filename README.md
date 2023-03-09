@@ -1,6 +1,6 @@
 # Vanilla+ Upgraded Init.c with Commands
 ## KillFeed, Stats, Global chat, Moderation and Player Database.
-
+| Github | [johnnypush/DayZVanillaInit][PlDb] |
 ```diff
 -  No mods required
 ```
@@ -147,3 +147,7 @@ Note: If you don't know the bohemiInteractiveID, you can extract it from the pla
 }
 ```
 >With this example, Swain and Jinx will be mods and Singed will be muted.
+
+[//]: # (These are reference links)
+
+   [PlDb]: <https://github.com/johnnypush/DayZVanillaInit>
