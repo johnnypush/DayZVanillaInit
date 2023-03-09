@@ -1,0 +1,26 @@
+{
+    "VXnOuYpHqFaaaaaL0dpsEtJnlp3WI9nJdZoTtb8xf-E=": {
+        "deaths": "2",
+        "killFeedOn": "true",
+        "kills": "0",
+        "localChat": "false",
+        "lastConnection": "2023-02-14",
+        "name": "Swain"
+    },
+    "yUTZ5Pjjaaaaaa3KyVVZAtJ4gsftQSiDxhXeHESCEUs=": {
+        "name": "Jinx",
+        "killFeedOn": "false",
+        "localChat": "false",
+        "kills": "0",
+        "lastConnection": "2023-03-03",
+        "deaths": "0"
+    },
+    "wGx7jraaaaaaTC17nqdWKjVNT4POtOqWCZc1ktVpi84=": {
+        "deaths": "1",
+        "killFeedOn": "true",
+        "kills": "3",
+        "localChat": "false",
+        "lastConnection": "2023-03-03",
+        "name": "Singed"
+    }
+}
