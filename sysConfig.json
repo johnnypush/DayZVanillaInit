@@ -1,0 +1,7 @@
+{
+    "autoSaveMinutes": "4",
+    "kickPlayersOnDuplicateName": "1",
+    "debug_enabled": "0",
+    "serverRestartMinutes": "384",
+    "killFeedNotifyMinutes": "1"
+}
