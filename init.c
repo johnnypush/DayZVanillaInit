@@ -378,7 +378,7 @@ class CustomMission: MissionServer
 				ref map<string, string> pConfig = new map<string, string>();
 
 				pConfig.Insert("name", plyCurName);
-				pConfig.Insert("killFeedOn", "false");
+				pConfig.Insert("killFeedOn", "true");
 				pConfig.Insert("localChat", "false");
 				pConfig.Insert("lastConnection", getDate());
 				pConfig.Insert("kills", "0");
