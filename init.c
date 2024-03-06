@@ -225,7 +225,7 @@ class CustomMission: MissionServer
 		if(tempAdminConfig.Contains("adminPlayers"))
 		{
 			adminConfig.Set("adminPlayers", tempAdminConfig.Get("adminPlayers"));
-			aCAplyrs = new TStringArray;1
+			aCAplyrs = new TStringArray;
 			tempAdminConfig.Get("adminPlayers").Split(" ", aCAplyrs);
 
 			for( aCidMp = 0; aCidMp < aCAplyrs.Count(); aCidMp++ )
